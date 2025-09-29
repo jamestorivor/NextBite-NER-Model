@@ -1,0 +1,2305 @@
+[
+  {
+    "data": {
+      "text": "This dish is a staple of Chinese cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 32,
+              "text": "Chinese",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-8538",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Malay cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 30,
+              "text": "Malay",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-5895",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Indian cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 31,
+              "text": "Indian",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-2308",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Thai cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 29,
+              "text": "Thai",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-9957",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Japanese cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 33,
+              "text": "Japanese",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-2811",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Korean cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 31,
+              "text": "Korean",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-1810",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Western cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 32,
+              "text": "Western",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-8622",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Indonesian cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 35,
+              "text": "Indonesian",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-9659",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Vietnamese cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 35,
+              "text": "Vietnamese",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-3102",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Filipino cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 33,
+              "text": "Filipino",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-9582",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Peranakan cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 34,
+              "text": "Peranakan",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-1641",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Mediterranean cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 38,
+              "text": "Mediterranean",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-7759",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Italian cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 32,
+              "text": "Italian",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-8860",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Mexican cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 32,
+              "text": "Mexican",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-7288",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of French cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 31,
+              "text": "French",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-1688",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Turkish cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 32,
+              "text": "Turkish",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-2844",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Spanish cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 32,
+              "text": "Spanish",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-2373",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Greek cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 30,
+              "text": "Greek",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-7746",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of American cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 33,
+              "text": "American",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-9520",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "This dish is a staple of Lebanese cuisine and often features local spices."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 25,
+              "end": 33,
+              "text": "Lebanese",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-6116",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "My favorite meal is chicken rice because it's very flavorful."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 20,
+              "end": 27,
+              "text": "chicken",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-3768",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 28,
+              "end": 32,
+              "text": "rice",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-2651",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "My favorite meal is kway teow because it's very flavorful."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 20,
+              "end": 24,
+              "text": "kway",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-2051",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 25,
+              "end": 29,
+              "text": "teow",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-1224",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "My favorite meal is laksa because it's very flavorful."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 20,
+              "end": 25,
+              "text": "laksa",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-7562",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "My favorite meal is bak kut teh because it's very flavorful."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 20,
+              "end": 23,
+              "text": "bak",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-6564",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 24,
+              "end": 27,
+              "text": "kut",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-6165",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 28,
+              "end": 31,
+              "text": "teh",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-3429",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "My favorite meal is mee goreng because it's very flavorful."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 20,
+              "end": 23,
+              "text": "mee",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-3743",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 24,
+              "end": 30,
+              "text": "goreng",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-4013",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "After lunch, I always get a kopi o to cool down."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 28,
+              "end": 32,
+              "text": "kopi",
+              "labels": [
+                "B-Drink"
+              ]
+            },
+            "id": "id-9462",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 29,
+              "end": 30,
+              "text": "o",
+              "labels": [
+                "I-Drink"
+              ]
+            },
+            "id": "id-1217",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "After lunch, I always get a teh tarik to cool down."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 28,
+              "end": 31,
+              "text": "teh",
+              "labels": [
+                "B-Drink"
+              ]
+            },
+            "id": "id-7031",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 32,
+              "end": 37,
+              "text": "tarik",
+              "labels": [
+                "I-Drink"
+              ]
+            },
+            "id": "id-6236",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "After lunch, I always get a milo dinosaur to cool down."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 28,
+              "end": 32,
+              "text": "milo",
+              "labels": [
+                "B-Drink"
+              ]
+            },
+            "id": "id-5761",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 33,
+              "end": 41,
+              "text": "dinosaur",
+              "labels": [
+                "I-Drink"
+              ]
+            },
+            "id": "id-9743",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "After lunch, I always get a iced lemon tea to cool down."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 28,
+              "end": 32,
+              "text": "iced",
+              "labels": [
+                "B-Drink"
+              ]
+            },
+            "id": "id-3128",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 33,
+              "end": 38,
+              "text": "lemon",
+              "labels": [
+                "I-Drink"
+              ]
+            },
+            "id": "id-2680",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 39,
+              "end": 42,
+              "text": "tea",
+              "labels": [
+                "I-Drink"
+              ]
+            },
+            "id": "id-2805",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "After lunch, I always get a bandung to cool down."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 28,
+              "end": 35,
+              "text": "bandung",
+              "labels": [
+                "B-Drink"
+              ]
+            },
+            "id": "id-8902",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Singaporean cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 43,
+              "text": "Singaporean",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-3522",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Hainanese cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "Hainanese",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-5085",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Teochew cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 39,
+              "text": "Teochew",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-5742",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Hokkien cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 39,
+              "text": "Hokkien",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-7020",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Cantonese cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "Cantonese",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-2100",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Sichuan cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 39,
+              "text": "Sichuan",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-5336",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Indian Muslim cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 45,
+              "text": "Indian Muslim",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-4257",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Javanese cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 40,
+              "text": "Javanese",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-5353",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Sri Lankan cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 42,
+              "text": "Sri Lankan",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-2071",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Pakistani cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "Pakistani",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-6806",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Nepalese cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 40,
+              "text": "Nepalese",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-9845",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Bangladeshi cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 43,
+              "text": "Bangladeshi",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-4809",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Persian cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 39,
+              "text": "Persian",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-2824",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Moroccan cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 40,
+              "text": "Moroccan",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-3939",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Ethiopian cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "Ethiopian",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-4043",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Caribbean cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "Caribbean",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-4438",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Brazilian cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "Brazilian",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-1828",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Argentinian cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 43,
+              "text": "Argentinian",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-2027",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in German cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 38,
+              "text": "German",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-2622",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Russian cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 39,
+              "text": "Russian",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-2367",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Polish cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 38,
+              "text": "Polish",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-4441",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "The origins of this dish lie in Hungarian cuisine, which is known for its unique flavors."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 32,
+              "end": 41,
+              "text": "Hungarian",
+              "labels": [
+                "Cuisine"
+              ]
+            },
+            "id": "id-8493",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "A classic local favourite is chilli crab, found in many hawker stalls."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 29,
+              "end": 35,
+              "text": "chilli",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-9043",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 36,
+              "end": 40,
+              "text": "crab",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-3549",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "A classic local favourite is satay, found in many hawker stalls."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 29,
+              "end": 34,
+              "text": "satay",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-6146",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "A classic local favourite is popiah, found in many hawker stalls."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 29,
+              "end": 35,
+              "text": "popiah",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-7056",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "A classic local favourite is carrot cake, found in many hawker stalls."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 29,
+              "end": 35,
+              "text": "carrot",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-3784",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 36,
+              "end": 40,
+              "text": "cake",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-9082",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "A classic local favourite is economic bee hoon, found in many hawker stalls."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 29,
+              "end": 37,
+              "text": "economic",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-8926",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 38,
+              "end": 41,
+              "text": "bee",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-6551",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 42,
+              "end": 46,
+              "text": "hoon",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-9321",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "A classic local favourite is fish head curry, found in many hawker stalls."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 29,
+              "end": 33,
+              "text": "fish",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-1896",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 34,
+              "end": 38,
+              "text": "head",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-3983",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 39,
+              "end": 44,
+              "text": "curry",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-9922",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "A classic local favourite is hainanese chicken rice, found in many hawker stalls."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 29,
+              "end": 38,
+              "text": "hainanese",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-1001",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 39,
+              "end": 46,
+              "text": "chicken",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-1537",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 47,
+              "end": 51,
+              "text": "rice",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-3387",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "A classic local favourite is kaya toast, found in many hawker stalls."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 29,
+              "end": 33,
+              "text": "kaya",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-3155",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 34,
+              "end": 39,
+              "text": "toast",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-8055",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "A classic local favourite is lontong, found in many hawker stalls."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 29,
+              "end": 36,
+              "text": "lontong",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-9441",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "A classic local favourite is mee siam, found in many hawker stalls."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 29,
+              "end": 32,
+              "text": "mee",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-3758",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 33,
+              "end": 37,
+              "text": "siam",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-5786",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "A classic local favourite is nasi padang, found in many hawker stalls."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 29,
+              "end": 33,
+              "text": "nasi",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-6172",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 34,
+              "end": 40,
+              "text": "padang",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-9570",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "A classic local favourite is otah, found in many hawker stalls."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 29,
+              "end": 33,
+              "text": "otah",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-7952",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "A classic local favourite is rojak, found in many hawker stalls."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 29,
+              "end": 34,
+              "text": "rojak",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-1262",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "A classic local favourite is sambal stingray, found in many hawker stalls."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 29,
+              "end": 35,
+              "text": "sambal",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-1113",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 36,
+              "end": 44,
+              "text": "stingray",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-4406",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "A classic local favourite is yong tau foo, found in many hawker stalls."
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "start": 29,
+              "end": 33,
+              "text": "yong",
+              "labels": [
+                "B-Food"
+              ]
+            },
+            "id": "id-4790",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 34,
+              "end": 37,
+              "text": "tau",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-5007",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 38,
+              "end": 41,
+              "text": "foo",
+              "labels": [
+                "I-Food"
+              ]
+            },
+            "id": "id-9992",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "completed_by": 1,
+        "was_cancelled": false,
+        "ground_truth": false
+      }
+    ]
+  }
+]
