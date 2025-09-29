@@ -7,7 +7,7 @@ Try inputing a request such as : "I would like to eat ...", it does not have to 
 Test functionality : [NextBite-NER-Model FAST API](https://jamestorivor-nextbite-dockers.hf.space/docs)
 
 # How its made
-## Tech Used:
+### Tech Used:
 Hugging Face, PyTorch (Backend), NLTK, Pandas, Docker, Python
 
 # Optimizations
